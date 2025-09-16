@@ -1,7 +1,7 @@
 # Optic-Gamma-Scintillator-with-aluminium-GEANT4
 
 
-# Gamma Scintillator with Aluminium Coating – Geant4 Simulation
+## Gamma Scintillator with Aluminium Coating – Geant4 Simulation
 
 This project implements a Geant4 simulation of a **gamma source interacting with an aluminium-coated scintillator**.  
 Focuses on aluminium’s reflective and absorptive properties.  
