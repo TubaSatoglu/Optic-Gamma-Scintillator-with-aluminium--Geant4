@@ -1,0 +1,18 @@
+/control/execute vis.mac 
+
+/run/initialize
+/run/verbose 0          
+/tracking/verbose 0     
+/process/em/verbose 0   
+/process/optical/verbose 0      
+
+/gun/particle gamma
+/gun/energy 0.7 MeV
+/gun/position 0. 0. -3. cm
+/gun/direction 0. 0. 1.
+
+/optical/scintillation/setByParticleType true
+/process/optical/scintillation/setVerbose 1
+
+/echo Starting event processing...
+/run/beamOn 50

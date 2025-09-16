@@ -1,0 +1,4 @@
+/home/tuba/Documents/geant4_examples/Optic Gamma Scintillator (denemeler)/Optic Gamma Scintillator (with aluminium)/build/CMakeFiles/sim.dir
+/home/tuba/Documents/geant4_examples/Optic Gamma Scintillator (denemeler)/Optic Gamma Scintillator (with aluminium)/build/CMakeFiles/OpticalSim.dir
+/home/tuba/Documents/geant4_examples/Optic Gamma Scintillator (denemeler)/Optic Gamma Scintillator (with aluminium)/build/CMakeFiles/edit_cache.dir
+/home/tuba/Documents/geant4_examples/Optic Gamma Scintillator (denemeler)/Optic Gamma Scintillator (with aluminium)/build/CMakeFiles/rebuild_cache.dir
